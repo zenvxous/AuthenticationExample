@@ -1,0 +1,15 @@
+/Users/zenvxous/Programming/RiderProjects/Test Projects/UserPlatform/UserPlatform.BL/bin/Debug/net8.0/UserPlatform.BL.deps.json
+/Users/zenvxous/Programming/RiderProjects/Test Projects/UserPlatform/UserPlatform.BL/bin/Debug/net8.0/UserPlatform.BL.dll
+/Users/zenvxous/Programming/RiderProjects/Test Projects/UserPlatform/UserPlatform.BL/bin/Debug/net8.0/UserPlatform.BL.pdb
+/Users/zenvxous/Programming/RiderProjects/Test Projects/UserPlatform/UserPlatform.BL/bin/Debug/net8.0/UserPlatform.Core.dll
+/Users/zenvxous/Programming/RiderProjects/Test Projects/UserPlatform/UserPlatform.BL/bin/Debug/net8.0/UserPlatform.Core.pdb
+/Users/zenvxous/Programming/RiderProjects/Test Projects/UserPlatform/UserPlatform.BL/obj/Debug/net8.0/UserPlatform.BL.csproj.AssemblyReference.cache
+/Users/zenvxous/Programming/RiderProjects/Test Projects/UserPlatform/UserPlatform.BL/obj/Debug/net8.0/UserPlatform.BL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zenvxous/Programming/RiderProjects/Test Projects/UserPlatform/UserPlatform.BL/obj/Debug/net8.0/UserPlatform.BL.AssemblyInfoInputs.cache
+/Users/zenvxous/Programming/RiderProjects/Test Projects/UserPlatform/UserPlatform.BL/obj/Debug/net8.0/UserPlatform.BL.AssemblyInfo.cs
+/Users/zenvxous/Programming/RiderProjects/Test Projects/UserPlatform/UserPlatform.BL/obj/Debug/net8.0/UserPlatform.BL.csproj.CoreCompileInputs.cache
+/Users/zenvxous/Programming/RiderProjects/Test Projects/UserPlatform/UserPlatform.BL/obj/Debug/net8.0/UserPlat.6969F682.Up2Date
+/Users/zenvxous/Programming/RiderProjects/Test Projects/UserPlatform/UserPlatform.BL/obj/Debug/net8.0/UserPlatform.BL.dll
+/Users/zenvxous/Programming/RiderProjects/Test Projects/UserPlatform/UserPlatform.BL/obj/Debug/net8.0/refint/UserPlatform.BL.dll
+/Users/zenvxous/Programming/RiderProjects/Test Projects/UserPlatform/UserPlatform.BL/obj/Debug/net8.0/UserPlatform.BL.pdb
+/Users/zenvxous/Programming/RiderProjects/Test Projects/UserPlatform/UserPlatform.BL/obj/Debug/net8.0/ref/UserPlatform.BL.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iVM3aK7AEs5HcDggOt5aMnXrpHaQKGf227z1IkYr6EQ=",
+  "Source": "UserPlatform.API",
+  "BasePath": "_content/UserPlatform.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
